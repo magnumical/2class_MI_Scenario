@@ -1,5 +1,5 @@
 # 2class_MI_Scenario
-A OpenSesame @ class motor imagery scenario with PL2303TA trigger
+An OpenSesame two class motor imagery scenario with PL2303TA trigger
 
 ## What is PL2303TA?
 <img src="https://github.com/magnumical/2class_MI_Scenario/blob/master/pl.jpg" data-canonical-src="https://imreza.ir" width="450" height="250" />
